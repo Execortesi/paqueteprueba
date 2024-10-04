@@ -16,3 +16,7 @@ Depends:
 LazyData: true
 URL: https://github.com/Execortesi/paqueteprueba
 BugReports: https://github.com/Execortesi/paqueteprueba/issues
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
