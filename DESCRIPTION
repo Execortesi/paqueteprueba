@@ -14,7 +14,7 @@ RoxygenNote: 7.3.2
 Depends: 
     R (>= 2.10)
 LazyData: true
-URL: https://github.com/Execortesi/paqueteprueba
+URL: https://github.com/Execortesi/paqueteprueba, https://execortesi.github.io/paqueteprueba/
 BugReports: https://github.com/Execortesi/paqueteprueba/issues
 Suggests: 
     knitr,
