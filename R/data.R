@@ -1,3 +1,4 @@
+
 #'Conjunto de datos de ejemplo
 #'
 #' Los datos son utiliados como ejemplo de nuestra funcion de suma.

@@ -5,19 +5,31 @@
 \alias{datos}
 \title{Conjunto de datos de ejemplo}
 \format{
+<<<<<<< HEAD
 Los datos son generados de forma sintetica.
+=======
+los datos son generados de forma sintética.
+>>>>>>> 3e4aec5e408ec74cf896a4bbdb0392a010e051c8
 \describe{
 \item{a}{muestra de datos}
 \item{b}{muestra de datos multiplicada por cinco}
 }
 }
 \source{
+<<<<<<< HEAD
 generacion propia con funciones de R
+=======
+generación propia con funciones de R
+>>>>>>> 3e4aec5e408ec74cf896a4bbdb0392a010e051c8
 }
 \usage{
 datos
 }
 \description{
+<<<<<<< HEAD
 Los datos son utiliados como ejemplo de nuestra funcion de suma.
+=======
+Los datos son utilizados como ejemplo de muestra de función de suma.
+>>>>>>> 3e4aec5e408ec74cf896a4bbdb0392a010e051c8
 }
 \keyword{datasets}
